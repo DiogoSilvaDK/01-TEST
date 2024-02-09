@@ -1,0 +1,17 @@
+[
+    {
+        "Nome": "Jessica",
+        "Pedido": "Calabresa",
+        "Tamanho": "Grande"
+    },
+    {
+        "Nome": "Jessica",
+        "Pedido": "Peperone",
+        "Tamanho": "Grande:obs com borda"
+    },
+    {
+        "Nome": "Diogo",
+        "Pedido": "Calabresa",
+        "Tamanho": "Grande"
+    }
+]
